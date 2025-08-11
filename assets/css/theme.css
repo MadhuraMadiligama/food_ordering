@@ -1,0 +1,26 @@
+body {
+  background-color: #fffbe6; /* light yellow */
+  color: #000;
+}
+
+.navbar {
+  background-color: #000 !important;
+}
+
+.navbar .nav-link,
+.navbar-brand {
+  color: yellow !important;
+}
+
+.btn-primary {
+  background-color: black;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #222;
+}
+
+.card {
+  border: 1px solid #ffd700;
+}
